@@ -1,1 +1,1 @@
-https://mr-adill.github.io/new-test/New folder/test.html
+https://mr-adill.github.io/new-test/Newfolder/test.html
